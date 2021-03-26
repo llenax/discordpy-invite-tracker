@@ -24,7 +24,7 @@ from discord.ext import commands
 
 invites_dict = {} # Store
 
-token = "NzYyMzI5OTc1NDY2MzYwODUz.X3nlHQ.4Tz-nSgkdClOh9WeZoP23RqEojs"
+token = "Bot_token"
 prefix = "!"
 
 client = commands.Bot(command_prefix=prefix, intents=discord.Intents.all())
